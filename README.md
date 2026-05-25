@@ -1,6 +1,6 @@
-# Selly – Automatyczny system sklepu dla FiveM i Discord
+# RPHub – Automatyczny system sklepu dla FiveM i Discord
 
-**Selly** to kompleksowa platforma e-commerce dla serwerów FiveM i Discord, która automatyzuje sprzedaż VIP, rang, itemów i ról.
+**RPHub** to kompleksowa platforma e-commerce dla serwerów FiveM i Discord, która automatyzuje sprzedaż VIP, rang, itemów i ról.
 
 ## 🚀 Funkcje
 
@@ -16,8 +16,8 @@
 
 | Framework | Pobierz |
 |-----------|---------|
-| **QBCore** | [esx.zip](https://github.com/imdeadd/Selly/blob/main/esx.zip) |
-| **ESX** | [qb_core.zip](https://github.com/imdeadd/Selly/blob/main/qb_core.zip) |
+| **QBCore** | [Pobierz](https://github.com/twoj-github/RPHub/releases/download/v1.0.0/rphub-qbcore.zip) |
+| **ESX** | [Pobierz](https://github.com/twoj-github/RPHub/releases/download/v1.0.0/rphub-esx.zip) |
 
 ## 🛠️ Technologie
 
@@ -32,5 +32,5 @@ MIT
 
 ---
 
-**Strona:** [https://selly.gg](https://selly.gg)  
-**Discord:** [Dołącz do nas](https://discord.gg/selly)
+**Strona:** [https://rphub.pl](https://rphub.pl)
+**Discord:** [Dołącz do nas](https://discord.gg/rphub)
